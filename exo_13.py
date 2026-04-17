@@ -1,7 +1,7 @@
 countdown = 10
 
-while countdown > 0:
+for countdown in range(1, 11):
     print(countdown)
-    countdown = countdown - 2
+
 
 print("Décollage!")
