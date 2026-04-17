@@ -1,6 +1,6 @@
 number = int(input("Entrez un nombre entre 1 et 100: "))
 
-while number < 1 or number > 100:
+while number < 1 or number > 150:
     number = int(input("Entrez un nombre entre 1 et 100: "))
 
 # total = sum(range(number+1))
